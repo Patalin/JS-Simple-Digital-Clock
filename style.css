@@ -1,0 +1,23 @@
+body {
+    background: #f2eee3;
+}
+
+.clock {
+    position: relative;
+    top: 50%;
+    left: 70%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Montserrat;
+    letter-spacing: 7px;
+
+}
+
+p {
+    position: relative;
+    top: 25%;
+    left: 15%;
+    font-size: 50px;
+    color: red;
+}
